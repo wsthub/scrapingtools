@@ -1,0 +1,7 @@
+stem==1.8.0
+random-user-agent==1.0.1
+numpy==1.19.4
+requests_html==0.10.0
+lxml==4.6.2
+requests==2.18.4
+bs4==0.0.1

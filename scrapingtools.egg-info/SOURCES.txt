@@ -1,0 +1,10 @@
+README.md
+setup.cfg
+setup.py
+scrapingtools/__init__.py
+scrapingtools/utils.py
+scrapingtools.egg-info/PKG-INFO
+scrapingtools.egg-info/SOURCES.txt
+scrapingtools.egg-info/dependency_links.txt
+scrapingtools.egg-info/entry_points.txt
+scrapingtools.egg-info/top_level.txt
